@@ -26,7 +26,7 @@ $.get(URL_ENDPOINT).then(data => {
     })
 })
 
-//Create item on grocery list
+//Create paint
 
 class Item {
     constructor(item) {
